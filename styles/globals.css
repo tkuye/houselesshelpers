@@ -1,0 +1,54 @@
+
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+#header {
+  
+  background: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+  height: 300px;
+  margin-bottom: 40px;
+  opacity: 0.8;
+}
+#header h1 {
+  text-align:center;
+  margin: 0 auto;
+ padding-top: 100px;
+ font-size: calc(4vw + 30px);
+ color: #FFFFFF;
+}
+
+.living-houseless {
+  text-align: center;
+
+  font-size: calc(1.5vw + 13px);
+  margin-bottom: 20px;
+}
+
+.living-houseless:hover {
+  color: #2a67b6;
+  cursor: pointer;
+}
+
+img#send-button  {
+  
+  height: 50px;
+}
+
+.form-group {
+  margin-bottom: 45px;
+}
+
+
+.space-bottom {
+  margin-bottom: 40px;
+}
