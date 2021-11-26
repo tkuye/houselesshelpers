@@ -1,7 +1,5 @@
 import Head from 'next/head'
-import Script from 'next/script'
 import Link from 'next/link'
-import Router from 'next/router'
 import {useState} from "react"
 import axios from "axios"
 export default function Home() {
@@ -30,14 +28,11 @@ export default function Home() {
       <div id="header">
         <h1>Pay It Forward</h1>
     </div>
+
+    <div className="container">
     <Link href="/living-houseless">
       <h2 className="living-houseless">Click here to check out the Living Houseless Series!</h2>
     </Link>
-    <div className="container">
-
-
-
-
 <div>
 <input type="hidden" name="id" value="1FAIpQLSd3mdmfxFE1Yc75IjWDWBgMIzWh9EUVTnaEozAYtj24Ci250w"/>
 <input type="hidden" name="pageHistory" value=""/>
@@ -166,11 +161,10 @@ If you would rather donate bottles or essential items for this fundraiser, feel 
     <div className="form-group">
       <h4>
         Social Media 
-        
       </h4>
       <hr />
       
-        <div><p>Check out our Instagram page @houselesshelpers for updates!</p></div>
+        <div><p>Check out our Instagram page <Link href="https://www.instagram.com/houselesshelpers">@houselesshelpers</Link> for updates!</p></div>
       
     </div>
   

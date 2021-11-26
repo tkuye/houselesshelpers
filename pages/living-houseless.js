@@ -3,7 +3,7 @@ import Link from "next/link"
 import LHCarousel from "../components/LHCarousel"
 import styles from "../styles/Series.module.css"
 import Router from "next/router"
-import { Head } from "next/document"
+
 
 
 const LivingHouseless = () => {
