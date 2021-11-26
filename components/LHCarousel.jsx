@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+// requires a loader
 import { Carousel } from 'react-responsive-carousel';
 import styles from "../styles/Series.module.css"
 const LHCarousel = ({img_srcs, name}) => {
@@ -21,7 +21,11 @@ const LHCarousel = ({img_srcs, name}) => {
 	return (
 		<div>
 			<h2 className={styles.epName}>{name}</h2>
-		<Carousel className={styles.seriesCarousel} showStatus={false} showIndicators={false} useKeyboardArrows>
+		<Carousel className={styles.seriesCarousel} showStatus={false} showIndicators={false} 
+		useKeyboardArrows 
+		autoPlay 
+		interval={6000} 
+		stopOnHover>
 			{images}
 		</Carousel>
 		</div>

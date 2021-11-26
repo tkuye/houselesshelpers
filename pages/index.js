@@ -30,9 +30,7 @@ export default function Home() {
     </div>
 
     <div className="container">
-    <Link href="/living-houseless">
-      <h2 className="living-houseless">Click here to check out the Living Houseless Series!</h2>
-    </Link>
+   
 <div>
 <input type="hidden" name="id" value="1FAIpQLSd3mdmfxFE1Yc75IjWDWBgMIzWh9EUVTnaEozAYtj24Ci250w"/>
 <input type="hidden" name="pageHistory" value=""/>
@@ -75,7 +73,9 @@ All donations and contributions will be going to <strong>3</strong> Edmonton-bas
       
     </div>
   
-  
+    <Link href="/living-houseless">
+      <h2 className="living-houseless">Click here to check out the Living Houseless Series!</h2>
+    </Link>
   
 
   
