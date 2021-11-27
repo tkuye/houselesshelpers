@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: true,
   env: {
-    dbURL: "https://hidden-reef-23080.herokuapp.com/comments",
+    dbURL: "https://vast-forest-36970.herokuapp.com/comments",
   },
 }
