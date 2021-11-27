@@ -132,7 +132,7 @@ All donations and contributions will be going to <strong>3</strong> Edmonton-bas
       </h4>
       <hr />
       <p>Click this button to make a donation! Thank you for your generosity. </p>
-      <script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script><a className="dbox-donation-button" style={{background: '#41a2d8 url(https://donorbox.org/images/red_logo.png) no-repeat 37px',color: '#fff', textDecoration: 'none', fontFamily: 'Poppins', display: 'inline-block',fontSize: '16px', padding:'15px 38px', paddingLeft: '75px', borderRadius: '5px', }} href="https://donorbox.org/houseless-helpers">Donate</a>
+      <a className="dbox-donation-button" style={{background: '#41a2d8 url(https://donorbox.org/images/red_logo.png) no-repeat 37px',color: '#fff', textDecoration: 'none', fontFamily: 'Poppins', display: 'inline-block',fontSize: '16px', padding:'15px 38px', paddingLeft: '75px', borderRadius: '5px', }} href="https://donorbox.org/houseless-helpers">Donate</a>
     </div>
     <br />
   
@@ -149,7 +149,7 @@ All donations and contributions will be going to <strong>3</strong> Edmonton-bas
 If you would rather donate bottles or essential items for this fundraiser, feel free to call or text me at <a href="tel:+17809145692">  
 (780) 914-5692</a> and someone will come to pick them up!<br/>
 <br/>Additionally, you can enter your email below, and I'll be sure to get back to you.<br/>
-<br/><strong>Items For the Shelters</strong>: These are all the items the shelters need most. This includes socks, underwear, toiletries, blankets and many more.  Click this <a href="./wsnm.pdf">link</a> to see an infographic of the most important items!<br/>
+<br/><strong>Items For the Shelters</strong>: These are all the items the shelters need most. This includes socks, underwear, toiletries, blankets and many more.  Click this <a href="/hych.pdf">link</a> to see an infographic of the most important items!<br/>
 <br/><strong>Bottle Donation</strong>: These are any recyclables you may have at home. The recyclables will be returned to raise additional funds.<p></p></div>
       
     </div>

@@ -53,3 +53,7 @@ img#send-button  {
   margin-bottom: 40px;
 }
 
+a {
+  color: #2a67b6;
+  text-decoration: none;
+}
