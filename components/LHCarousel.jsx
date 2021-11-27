@@ -19,7 +19,7 @@ const LHCarousel = ({img_srcs, name}) => {
     },[])
 
 	return (
-		<div>
+		<div style={{marginBottom:'50px'}}>
 			<h2 className={styles.epName}>{name}</h2>
 		<Carousel className={styles.seriesCarousel} showStatus={false} showIndicators={false} 
 		useKeyboardArrows 

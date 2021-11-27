@@ -13,6 +13,9 @@ const LivingHouseless = () => {
             <h1 className={styles.header}>Living Houseless</h1>
             <p className={styles.description}>Living Houseless is a series that aims to spread awareness about the stories, lives and struggles faced by the vulnerable community. Please contact me at (780) 914-5692 if you have any questions.</p>
             <LHCarousel name={"Episode 1"} img_srcs={['/lh1/1.png', '/lh1/2.png','/lh1/3.png','/lh1/4.png','/lh1/5.png','/lh1/6.png', '/lh1/7.png', '/lh1/8.png']}/>
+            <LHCarousel name={"Episode 2"} img_srcs={['/lh2/1.png', '/lh2/2.png','/lh2/3.png','/lh2/4.png','/lh2/5.png','/lh2/6.png', '/lh2/7.png', '/lh2/8.png']}/>
+        
+        
         </div>
     )
 }
