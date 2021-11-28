@@ -21,7 +21,7 @@ const LHCarousel = ({img_srcs, name}) => {
 	return (
 		<div style={{marginBottom:'50px'}}>
 			<h2 className={styles.epName}>{name}</h2>
-		<Carousel className={styles.seriesCarousel} showStatus={false} showIndicators={false} 
+		<Carousel className={styles.seriesCarousel} showStatus={false} 
 		useKeyboardArrows 
 		autoPlay 
 		interval={6000} 
