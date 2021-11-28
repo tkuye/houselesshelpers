@@ -149,7 +149,7 @@ All donations and contributions will be going to <strong>3</strong> Edmonton-bas
 If you would rather donate bottles or essential items for this fundraiser, feel free to call or text me at <a href="tel:+17809145692">  
 (780) 914-5692</a> and someone will come to pick them up!<br/>
 <br/>Additionally, you can enter your email below, and I'll be sure to get back to you.<br/>
-<br/><strong>Items For the Shelters</strong>: These are all the items the shelters need most. This includes socks, underwear, toiletries, blankets and many more.  Click this <a href="/wsnm.png">link</a> to see an infographic of the most important items!<br/>
+<br/><strong>Items For the Shelters</strong>: These are all the items the shelters need most. This includes socks, underwear, toiletries, blankets and many more.  Click this <a href="/wsnm.pdf">link</a> to see an infographic of the most important items!<br/>
 <br/><strong>Bottle Donation</strong>: These are any recyclables you may have at home. The recyclables will be returned to raise additional funds.<p></p></div>
       
     </div>
