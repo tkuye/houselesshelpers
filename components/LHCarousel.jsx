@@ -23,8 +23,6 @@ const LHCarousel = ({img_srcs, name}) => {
 			<h2 className={styles.epName}>{name}</h2>
 		<Carousel className={styles.seriesCarousel} showStatus={false} 
 		useKeyboardArrows 
-		autoPlay 
-		interval={6000} 
 		stopOnHover>
 			{images}
 		</Carousel>
