@@ -239,12 +239,12 @@ If you would rather donate bottles or essential items for this fundraiser, feel 
 
 </div>
 <div>
-
+    <p style={{textAlign: 'center', fontSize:"18px"}}>{response}</p>
     <button type="button" className="btn btn-primary space-bottom" onClick={sendForm}>
       <img id="send-button" src="https://neartail.com/img/send.svg"/>
       Send
     </button>
-    <p style={{textAlign: 'center', fontSize:"18px"}}>{response}</p>
+    
 </div>
 </div>
 <div style={{display:'none'}}>
