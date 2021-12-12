@@ -29,6 +29,8 @@ export default function Home() {
     <div>
   <Head>
     <title>Houseless Helpers</title>
+    <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+    <meta name="description" content="Houseless Helpers is a fundraiser dedicated to provide care packages to three Edmonton-based houseless shelters." />
       </Head>
       <div id="header">
         <h1>Pay It Forward</h1>

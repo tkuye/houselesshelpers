@@ -2,6 +2,7 @@ import Document, { Html, Head, Main, NextScript } from 'next/document'
 import {useEffect} from "react"
 import Script from 'next/script'
 
+
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
     const initialProps = await Document.getInitialProps(ctx)

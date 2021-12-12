@@ -14,6 +14,7 @@ const LivingHouseless = () => {
         <div>
             <Head>
                 <title>Living Houseless</title>
+                <meta name="description" content="Living Houseless is a series aimed to tell the stories of people within the vulnerable community in Edmonton."></meta>
             </Head>
             <h3 className={styles.backButton} onClick={() => Router.push('/')}>Go Back</h3>
             <h1 className={styles.header}>Living Houseless</h1>
