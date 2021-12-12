@@ -7,6 +7,11 @@ export default function Home() {
   const [comment, setComment] = useState("")
   const [response, setResponse] = useState("")
   const sendForm = () => {
+    if (email === ""){
+      setResponse("Please enter an email address.");
+      return; 
+    }
+
     axios.post(process.env.dbURL, {
       email: email,
       comment: comment
