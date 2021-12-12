@@ -2,13 +2,19 @@ import React from "react"
 import LHCarousel from "../components/LHCarousel"
 import styles from "../styles/Series.module.css"
 import Router from "next/router"
+import Head from "next/head"
+
 
 
 
 const LivingHouseless = () => {
     
     return (
+
         <div>
+            <Head>
+                <title>Living Houseless</title>
+            </Head>
             <h3 className={styles.backButton} onClick={() => Router.push('/')}>Go Back</h3>
             <h1 className={styles.header}>Living Houseless</h1>
             <p className={styles.description}>Living Houseless is a series that aims to spread awareness about the stories, lives and struggles faced by the vulnerable community. If you're on mobile, swipe left or right to see the next image. If you're on a computer, click the left and right sides of the image to view the next one. Please contact me at (780) 914-5692 if you have any questions.</p>
