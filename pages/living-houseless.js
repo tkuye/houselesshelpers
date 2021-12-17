@@ -25,6 +25,7 @@ const LivingHouseless = () => {
             <LHCarousel name={"Episode 4"} img_srcs={['/lh4/1.png', '/lh4/2.png','/lh4/3.png','/lh4/4.png','/lh4/5.png','/lh4/6.png', '/lh4/7.png', '/lh4/8.png', '/lh4/9.png']}/>
             <LHCarousel name={"Episode 5"} img_srcs={['/lh5/1.png', '/lh5/2.png','/lh5/3.png','/lh5/4.png','/lh5/5.png','/lh5/6.png', '/lh5/7.png', '/lh5/8.png',]}/>
             <LHCarousel name={"Episode 6"} img_srcs={['/lh6/1.png', '/lh6/2.png','/lh6/3.png','/lh6/4.png','/lh6/5.png','/lh6/6.png']}/>
+            <LHCarousel name={"Episode 7"} img_srcs={['/lh7/1.png', '/lh7/2.png','/lh7/3.png','/lh7/4.png','/lh7/5.png','/lh7/6.png', '/lh7/7.png', '/lh7/8.png', '/lh7/9.png']}/>
         
         </div>
     )
