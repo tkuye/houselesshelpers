@@ -131,15 +131,12 @@ All donations and contributions will be going to <strong>3</strong> Edmonton-bas
 <br/><strong>Care Package Drop Off Date:</strong> December 20, 2021</p></div>
       
     </div>
-  
-  
     <div className="form-group">
       <h4>
         Donate
       </h4>
       <hr />
-      <p>Click this button to make a donation! Thank you for your generosity. </p>
-      <a className="dbox-donation-button" style={{background: '#41a2d8 url(https://donorbox.org/images/red_logo.png) no-repeat 37px',color: '#fff', textDecoration: 'none', fontFamily: 'Poppins', display: 'inline-block',fontSize: '16px', padding:'15px 38px', paddingLeft: '75px', borderRadius: '5px', }} href="https://donorbox.org/houseless-helpers">Donate</a>
+      <p>This time to donate has now ended. Thank you to everyone who has contributed!</p>
     </div>
     <br />
   
