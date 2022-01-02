@@ -186,65 +186,13 @@ If you would rather donate bottles or essential items for this fundraiser, feel 
     </div>
   
   
-    <div className="form-group">
-      
-        <label htmlFor="Widget1377614023">
-            <h4>Comments</h4>
-            
-            
-        </label>
-        
-          
-            <small className="form-text text-muted">
-              <p>Leave any comments or questions here.</p>
-            </small>
-          
-        
-        
-        
-      
-      
-        <textarea className="form-control" value={comment} onChange={(e) => setComment(e.target.value)} rows="3"></textarea>
-      
-      <div id="Error1377614023" className="ff-widget-error"></div>
-      
-    </div>
+    
   
-    <div className="form-group ff-item  ff-text  ff-item-noprd" id="ff-id-712814042">
-      
-        <label htmlFor="Widget712814042">
-            Email Address
-            
-            
-            
-        </label>
-        
-          
-            <small id="Static712814042" className="ff-help form-text text-muted">
-              <p>If you've left any comments, questions or are looking to donate items, leave your email here.</p>
-            </small>
-          
-        
-        
-        
-      
-      
-        
-          <input type="email" className="form-control" value={email} onChange={(event) => setEmail(event.target.value)}/>
-      
-    </div>
-  
+
   
 
 </div>
-<div>
-    <p style={{textAlign: 'center', fontSize:"18px"}}>{response}</p>
-    <button type="button" className="btn btn-primary space-bottom" onClick={sendForm}>
-      <img id="send-button" src="https://neartail.com/img/send.svg"/>
-      Send
-    </button>
-    
-</div>
+
 </div>
 <div style={{display:'none'}}>
 <div>
